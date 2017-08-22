@@ -1,0 +1,4 @@
+# DEV AREA
+#
+# -For the development of the APP
+# -If I make changes or notes here.  This can be synchronized back to GIT.  This is the application.
