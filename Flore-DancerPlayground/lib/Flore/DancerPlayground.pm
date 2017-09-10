@@ -11,4 +11,9 @@ get '/NLIST' => sub {
     send_file 'nlist.html';
 };
 
+get '/PLIST' => sub {
+    send_file 'plist.html';
+};
+
+
 true;
